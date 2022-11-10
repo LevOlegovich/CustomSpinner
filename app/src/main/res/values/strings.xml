@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">MarketplaceTask</string>
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name="locations">
+        <item>Moscow</item>
+        <item>Saint Petersburg</item>
+        <item>Samara</item>
+        <item>Kazan</item>
+        <item>Yekaterinburg</item>
+        <item>Nizhny Novgorod</item>
+    </string-array>
+
+
 </resources>
